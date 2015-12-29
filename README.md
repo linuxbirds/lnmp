@@ -7,4 +7,5 @@
 
 4、Nginx采用源码编译的方式，版本为1.8.0
 
+更多资料请访问：http://www.guoziweb.com
 
